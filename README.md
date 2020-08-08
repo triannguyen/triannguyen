@@ -1,10 +1,9 @@
-## Tri-Ân Nguyễn
+### 👋 Hello, World! 🌎
 
-👋 Hello, World! 🌎
+My name is Tri-An (pronounced like Brian but with a "T").
 
-### About Me
+#### About Me
 
-- 📞 You can call me Trian (pronounced like Brian but with a "T")
 - 🎹 I love playing the piano
 - 🚲 I enjoy biking around
 - ⛸ I like to skate in the wintertime
