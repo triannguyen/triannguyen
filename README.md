@@ -1,8 +1,8 @@
-# Tri-Ân Nguyễn
+## Tri-Ân Nguyễn
 
 👋 Hello, World! 🌎
 
-## About Me
+### About Me
 
 - 📞 You can call me Trian (pronounced like Brian but with a "T")
 - 🎹 I love playing the piano
